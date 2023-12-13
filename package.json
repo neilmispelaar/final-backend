@@ -14,5 +14,13 @@
     "nuxt": "^3.8.2",
     "vue": "^3.3.10",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "^2.4.4",
+    "@nuxt/devtools": "latest",
+    "@typescript-eslint/eslint-plugin": "^6.13.2",
+    "eslint": "^8.55.0",
+    "nuxt-mongoose": "^1.0.3",
+    "mongoose": "^8.0.3"
   }
 }
