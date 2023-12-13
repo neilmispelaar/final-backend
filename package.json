@@ -21,6 +21,7 @@
     "@nuxt/devtools": "latest",
     "@typescript-eslint/eslint-plugin": "^6.13.2",
     "eslint": "^8.55.0",
+    "kerberos": "^2.1.0",
     "mongoose": "^8.0.3",
     "nuxt-mongoose": "^1.0.3"
   }
