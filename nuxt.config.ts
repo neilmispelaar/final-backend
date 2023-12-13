@@ -10,4 +10,7 @@ export default defineNuxtConfig({
     modelsDir: 'models',
     devtools: true,
   },
+  nitro: {
+    noExternals: false,
+  },
 })
